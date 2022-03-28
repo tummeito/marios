@@ -11,7 +11,7 @@ class Settings:
         '                        ',
         '                        ',
         '                        ',
-        '                        ',
+        'P                       ',
         'XXXXXXXXXXXXXXXXXXXXXXXX',
         'XXXXXXXXXXXXXXXXXXXXXXXX']
         self.tile_size = 64
